@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=thekingadn&contribs_include_own_repos=true)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thekingadn&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=thekingadn&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=shadow_blue)
 
 <!--
 **thekingadn/thekingadn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
