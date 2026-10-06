@@ -1,5 +1,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thekingadn&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=thekingadn&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=shadow_blue)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thekingadn)](https://git.io/streak-stats)
+
 <!--
 **thekingadn/thekingadn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
