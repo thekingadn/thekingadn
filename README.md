@@ -1,6 +1,6 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thekingadn&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=thekingadn&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=shadow_blue)
+[![GitHub Stats](./profile/stats.svg)](https://github.com/thekingadn?tab=repositories)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thekingadn&theme=shadow-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thekingadn&theme=shadow-blue&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9)](https://git.io/streak-stats)
 
 
 <!--
