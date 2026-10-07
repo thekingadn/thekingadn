@@ -1,6 +1,6 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thekingadn&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=thekingadn&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=shadow_blue)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thekingadn&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thekingadn&theme=shadow-blue)](https://git.io/streak-stats)
 
 
 <!--
