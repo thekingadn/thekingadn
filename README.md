@@ -4,18 +4,12 @@
   </a>
 </p>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/thekingadn?tab=repositories">
-        <img src="./profile/stats.svg" alt="GitHub Stats" width="350" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <img src="./profile/languages.svg" alt="Most Used Languages" width="350" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/thekingadn?tab=repositories">
+    <img src="./profile/stats.svg?v=balanced-2" alt="GitHub Stats" width="49%" />
+  </a>
+  <img src="./profile/languages.svg?v=balanced-2" alt="Most Used Languages" width="49%" />
+</p>
 
 
 <!--

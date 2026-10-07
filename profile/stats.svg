@@ -1,7 +1,7 @@
 <svg
         width="400"
-        height="165"
-        viewBox="0 0 400 165"
+        height="327"
+        viewBox="0 0 400 327"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
         >
 
     <g data-testid="rank-circle"
-          transform="translate(348.5, 47.5)">
+          transform="translate(348.5, 128.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
@@ -159,7 +159,7 @@
         data-testid="stars"
       >18</text>
     </g>
-  </g><g transform="translate(0, 25)">
+  </g><g transform="translate(0, 52)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
 
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -174,7 +174,7 @@
         data-testid="commits"
       >856</text>
     </g>
-  </g><g transform="translate(0, 50)">
+  </g><g transform="translate(0, 104)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
 
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -189,7 +189,7 @@
         data-testid="prs"
       >229</text>
     </g>
-  </g><g transform="translate(0, 75)">
+  </g><g transform="translate(0, 156)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
 
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -204,7 +204,7 @@
         data-testid="issues"
       >343</text>
     </g>
-  </g><g transform="translate(0, 100)">
+  </g><g transform="translate(0, 208)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
 
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
