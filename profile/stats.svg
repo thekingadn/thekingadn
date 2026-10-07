@@ -8,7 +8,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Florian B.&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 18, Total Commits  : 849, Total PRs: 222, Total Issues: 341, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 18, Total Commits  : 853, Total PRs: 227, Total Issues: 341, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -72,7 +72,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 108.69505059275345;
+        stroke-dashoffset: 108.43681287431254;
       }
     }
 
@@ -152,7 +152,7 @@
           Top
         </text>
         <text x="-5" y="12" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="percentile-rank-value" class="rank-percentile-text">
-          43.2%
+          43.1%
         </text>
 
         </g>
@@ -186,7 +186,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >849</text>
+      >853</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -201,7 +201,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >222</text>
+      >227</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
