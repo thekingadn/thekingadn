@@ -1,7 +1,7 @@
 <svg
         width="467"
-        height="195"
-        viewBox="0 0 467 195"
+        height="165"
+        viewBox="0 0 467 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -123,23 +123,8 @@
 
 
       <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
-        <g transform="translate(0, 0)">
-      <text
-        x="0"
-        y="0"
-        class="header"
-        data-testid="header"
-      >Florian B.&#39;s GitHub Stats</text>
-    </g>
-      </g>
-
-
-        <g
           data-testid="main-card-body"
-          transform="translate(0, 55)"
+          transform="translate(0, 25)"
         >
 
     <g data-testid="rank-circle"

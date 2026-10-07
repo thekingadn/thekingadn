@@ -1,12 +1,21 @@
 <p align="center">
-  <a href="https://github.com/thekingadn?tab=repositories">
-    <img src="./profile/stats.svg" alt="GitHub Stats" width="500" />
-  </a>
-  <br /><br />
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=thekingadn&amp;theme=shadow-blue&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=58A6FF&amp;sideLabels=58A6FF&amp;dates=C9D1D9" alt="GitHub Streak" width="500" />
   </a>
 </p>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/thekingadn?tab=repositories">
+        <img src="./profile/stats.svg" alt="GitHub Stats" width="350" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <img src="./profile/languages.svg" alt="Most Used Languages" width="350" />
+    </td>
+  </tr>
+</table>
 
 
 <!--
