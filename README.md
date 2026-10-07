@@ -1,6 +1,12 @@
-[![GitHub Stats](./profile/stats.svg)](https://github.com/thekingadn?tab=repositories)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thekingadn&theme=shadow-blue&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/thekingadn?tab=repositories">
+    <img src="./profile/stats.svg" alt="GitHub Stats" width="500" />
+  </a>
+  <br /><br />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=thekingadn&amp;theme=shadow-blue&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=58A6FF&amp;sideLabels=58A6FF&amp;dates=C9D1D9" alt="GitHub Streak" width="500" />
+  </a>
+</p>
 
 
 <!--
