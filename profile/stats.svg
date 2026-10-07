@@ -123,13 +123,10 @@
 
 
 
-        <g
-          data-testid="main-card-body"
-          transform="translate(0, 25)"
-        >
+        <g data-testid="main-card-body" transform="translate(-3.25, 25)">
 
     <g data-testid="rank-circle"
-          transform="translate(348.5, 128.5)">
+          transform="translate(348.5, 130.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
@@ -143,7 +140,7 @@
 
         </g>
       </g>
-    <svg x="0" y="0">
+    <svg x="0" y="26.5">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
 

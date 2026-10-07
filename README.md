@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/thekingadn?tab=repositories">
-    <img src="./profile/stats.svg?v=balanced-2" alt="GitHub Stats" width="49%" />
+    <img src="./profile/stats.svg?v=centered-3" alt="GitHub Stats" width="49%" />
   </a>
-  <img src="./profile/languages.svg?v=balanced-2" alt="Most Used Languages" width="49%" />
+  <img src="./profile/languages.svg?v=centered-3" alt="Most Used Languages" width="49%" />
 </p>
 
 
